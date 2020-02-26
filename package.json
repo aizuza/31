@@ -1,0 +1,23 @@
+{
+  "name": "31december",
+  "version": "1.0.0",
+  "description": "web app to check if it´s 31december",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aizuza/31december.git"
+  },
+  "author": "cj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aizuza/31december/issues"
+  },
+  "homepage": "https://github.com/aizuza/31december#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
